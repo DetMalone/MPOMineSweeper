@@ -361,3 +361,22 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Photon
+/Assets/TextMesh Pro
+/Build
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/PunDemos.DemoSlotcarEditor.csproj
+/PunDemos.DemoHubEditor.csproj
+/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj
+/PhotonUnityNetworking.Utilities.Culling.Editor.csproj
+/PhotonUnityNetworking.Utilities.csproj
+/PhotonUnityNetworking.Editor.csproj
+/PhotonUnityNetworking.Demos.csproj
+/PhotonUnityNetworking.csproj
+/PhotonRealtime.csproj
+/PhotonChat.csproj
+/MPOMineSweeper.sln
+/Assembly-CSharp.csproj
